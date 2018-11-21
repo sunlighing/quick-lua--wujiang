@@ -1,0 +1,435 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+Get data from file(D:\Quick-Cocos2dx-Community\quick\lib\framework_precompiled\framework_precompiled.zip) failed, error code is 3
+
+lua_loadChunksFromZIP() - not found or invalid zip file: D:\Quick-Cocos2dx-Community\quick\lib\framework_precompiled\framework_precompiled.zip
+
+------------------------------------------------
+
+LOAD LUA FILE: D:/git/ismytest/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = D:\git\ismytest\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 960.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 640.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 960.00
+
+[LUA-print] [INFO] # display.height               = 640.00
+
+[LUA-print] [INFO] # display.cx                   = 480.00
+
+[LUA-print] [INFO] # display.cy                   = 320.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 960.00
+
+[LUA-print] [INFO] # display.top                  = 640.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -480.00
+
+[LUA-print] [INFO] # display.c_right              = 480.00
+
+[LUA-print] [INFO] # display.c_top                = 320.00
+
+[LUA-print] [INFO] # display.c_bottom             = -320.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] MyApp.get it 
+
+[LUA-print] display.newColorLayer addto self
+
+[LUA-print] .backup
+EventDispatcher
+add
+addChild
+addComponent
+addNodeEventListener
+addTo
+align
+buildAction
+center
+cleanup
+clone
+convertToNodeSpace
+convertToNodeSpaceAR
+convertToWorldSpace
+convertToWorldSpaceAR
+convertTouchToNodeSpace
+convertTouchToNodeSpaceAR
+create
+draw
+enumerateChildren
+fadeIn
+fadeOut
+fadeTo
+getActionByTag
+getActionManager
+getAnchorPoint
+getAnchorPointInPoints
+getBoundingBox
+getCameraMask
+getCascadeBoundingBox
+getChildByName
+getChildByTag
+getChildren
+getChildrenCount
+getColor
+getComponent
+getContentSize
+getDescription
+getDisplayedColor
+getDisplayedOpacity
+getEventDispatcher
+getGLProgram
+getGLProgramState
+getGlobalZOrder
+getLocalZOrder
+getName
+getNodeToParentAffineTransform
+getNodeToParentTransform
+getNodeToWorldAffineTransform
+getNodeToWorldTransform
+getNormalizedPosition
+getNumberOfRunningActions
+getOpacity
+getOrderOfArrival
+getParent
+getParentToNodeAffineTransform
+getParentToNodeTransform
+getPhysicsBody
+getPosition
+getPosition3D
+getPositionX
+getPositionY
+getPositionZ
+getReferenceCount
+getRotation
+getRotation3D
+getRotationSkewX
+getRotationSkewY
+getScale
+getScaleX
+getScaleY
+getScaleZ
+getScene
+getScheduler
+getSkewX
+getSkewY
+getTag
+getTouchMode
+getWorldToNodeAffineTransform
+getWorldToNodeTransform
+hide
+hitTest
+ignoreAnchorPointForPosition
+isCascadeColorEnabled
+isCascadeOpacityEnabled
+isIgnoreAnchorPointForPosition
+isKeypadEnabled
+isOpacityModifyRGB
+isRunning
+isScheduled
+isTouchCaptureEnabled
+isTouchEnabled
+isTouchSwallowEnabled
+isVisible
+moveBy
+moveTo
+onCleanup
+onEnter
+onEnterTransitionFinish
+onExit
+onExitTransitionStart
+opacity
+pause
+performWithDelay
+pos
+registerScriptHandler
+release
+removeAllChildren
+removeAllComponents
+removeAllNodeEventListeners
+removeChild
+removeChildByName
+removeChildByTag
+removeComponent
+removeFromParent
+removeFromPhysicsWorld
+removeNodeEventListener
+removeNodeEventListenersByEvent
+removeSelf
+removeTouchEvent
+reorderChild
+resume
+retain
+rotateBy
+rotateTo
+rotation
+runAction
+scale
+scaleBy
+scaleTo
+schedule
+scheduleUpdate
+scheduleUpdateWithPriorityLua
+setActionManager
+setAdditionalTransform
+setAnchorPoint
+setBaseNodeEventListener
+setCameraMask
+setCascadeColorEnabled
+setCascadeOpacityEnabled
+setColor
+setContentSize
+setEventDispatcher
+setGLProgram
+setGLProgramState
+setGlobalZOrder
+setKeypadEnabled
+setLocalZOrder
+setName
+setNodeEventEnabled
+setNodeToParentTransform
+setNormalizedPosition
+setOnEnterCallback
+setOnExitCallback
+setOpacity
+setOpacityModifyRGB
+setOrderOfArrival
+setParent
+setPhysicsBody
+setPosition
+setPosition3D
+setPositionX
+setPositionY
+setPositionZ
+setRotation
+setRotation3D
+setRotationSkewX
+setRotationSkewY
+setScale
+setScaleX
+setScaleY
+setScaleZ
+setScheduler
+setSkewX
+setSkewY
+setTag
+setTouchCaptureEnabled
+setTouchEnabled
+setTouchMode
+setTouchSwallowEnabled
+setUserObject
+setVisible
+setonEnterTransitionDidFinishCallback
+setonExitTransitionDidStartCallback
+show
+size
+skewBy
+skewTo
+sortAllChildren
+stop
+stopAction
+stopActionByTag
+stopAllActions
+stopAllActionsByTag
+tintBy
+tintTo
+unregisterScriptHandler
+unscheduleUpdate
+update
+updateDisplayedColor
+updateDisplayedOpacity
+updateTransform
+visit
+zorder
+
+
+[LUA-print] 
+
+[LUA-print] ctor_sc	function: 0x06011c68
+
+[LUA-print] __ctype	1
+
+[LUA-print] new	function: 0x060a4210
+
+[LUA-print] __cname	bglayer
+
+[LUA-print] __create	function: 0x06011440
+
+[LUA-print] ctor	function: 0x0606f020
+
+[LUA-print] 
+
+[LUA-print] ctor_sc	function: 0x06011c68
+
+[LUA-print] __ctype	1
+
+[LUA-print] new	function: 0x060a4210
+
+[LUA-print] __cname	bglayer
+
+[LUA-print] __create	function: 0x06011440
+
+[LUA-print] ctor	function: 0x0606f020
+
+[LUA-print] type hero ->	table	userdata
+
+[LUA-print] MainScene into 
+
+[LUA-print] retarget get touch_position	number	200	200
+
+[LUA-print] touch x, y 	423	248
+
+[LUA-print] retarget get touch_position	number	227.47860717773	227.47860717773
+
+[LUA-print] touch x, y 	377	355
+
+[LUA-print] retarget get touch_position	number	300	300
+
+[LUA-print] touch x, y 	142	368
+
+[LUA-print] retarget get touch_position	number	250	350
+
+[LUA-print] touch x, y 	273	473
+
+[LUA-print] retarget get touch_position	number	250	400
+
+[LUA-print] touch x, y 	267	249
+
+[LUA-print] retarget get touch_position	number	250	350
+
+[LUA-print] touch x, y 	135	359
+
+[LUA-print] retarget get touch_position	number	200	350
+
+[LUA-print] touch x, y 	331	368
+
+[LUA-print] retarget get touch_position	number	241.38589477539	391.38589477539
+
+[LUA-print] touch x, y 	403	351
+
+[LUA-print] retarget get touch_position	number	300	400
+
+[LUA-print] touch x, y 	322	273
+
+[LUA-print] retarget get touch_position	number	300	350
+
+[LUA-print] touch x, y 	195	456
+
+[LUA-print] retarget get touch_position	number	250	400
+
+[LUA-print] touch x, y 	453	465
+
+[LUA-print] retarget get touch_position	number	300	450
+
+[LUA-print] touch x, y 	131	283
+
+[LUA-print] retarget get touch_position	number	250	400
+
+[LUA-print] touch x, y 	426	284
+
+[LUA-print] retarget get touch_position	number	300	350
+
+[LUA-print] touch x, y 	138	338
+
+[LUA-print] retarget get touch_position	number	250	300
+
+[LUA-print] touch x, y 	97	328
+
+[LUA-print] retarget get touch_position	number	200	300
+
+[LUA-print] touch x, y 	398	314
+
+[LUA-print] retarget get touch_position	number	250	350
+
+[LUA-print] touch x, y 	445	350
+
+[LUA-print] retarget get touch_position	number	300	350
+
+[LUA-print] touch x, y 	566	336
+
+[LUA-print] retarget get touch_position	number	350	350
+
+[LUA-print] touch x, y 	261	255
+
+[LUA-print] retarget get touch_position	number	300	300
+
+[LUA-print] touch x, y 	475	224
+
+[LUA-print] retarget get touch_position	number	350	250
+
+[LUA-print] touch x, y 	260	359
+
+[LUA-print] retarget get touch_position	number	306.04211425781	293.95788574219
+
+[LUA-print] touch x, y 	563	354
+
+[LUA-print] retarget get touch_position	number	350	350
+
+[LUA-print] touch x, y 	191	369
+
+[LUA-print] retarget get touch_position	number	305.84210205078	350
+
+[LUA-print] touch x, y 	711	330
+
+[LUA-print] retarget get touch_position	number	350	350
+
+[LUA-print] touch x, y 	393	462
+
+[LUA-print] retarget get touch_position	number	350	400
+
+[LUA-print] touch x, y 	371	165
+
+[LUA-print] retarget get touch_position	number	350	350
+
+[LUA-print] touch x, y 	177	309
+
+[LUA-print] retarget get touch_position	number	300	300
+
+[LUA-print] touch x, y 	486	267
+
+[LUA-print] retarget get touch_position	number	350	300
+
+[LUA-print] touch x, y 	510	154
+
